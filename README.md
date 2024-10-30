@@ -2,7 +2,7 @@
  <img width="800" height="400" src="https://github.com/Bdiro23/Bdiro23/blob/master/social/yashs.gif">
 </p>
 
-![BDIRO](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BDIRO&fontSize=90)
+![BADR](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BADR&fontSize=90)
 
 
 <h1 align="center">Hi 👋, I'm BADR-EDDINE ZIRAR</h1>
