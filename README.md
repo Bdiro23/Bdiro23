@@ -2,6 +2,9 @@
  <img width="800" height="400" src="https://github.com/Bdiro23/Bdiro23/blob/master/social/yashs.gif">
 </p>
 
+![BDIRO](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BDIRO&fontSize=90)
+
+
 <h1 align="center">Hi 👋, I'm BADR-EDDINE ZIRAR</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
@@ -41,6 +44,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Apache-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white" />
+ <img src="https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?&style=for-the-badge&logo=apache-tomcat&logoColor=black" />
+ <img src="https://img.shields.io/badge/MariaDB-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" />
+ <img src="https://img.shields.io/badge/API%20Platform-%230000FF.svg?&style=for-the-badge&logo=api-platform&logoColor=white" />
 </p>
 
 <p align="center">
