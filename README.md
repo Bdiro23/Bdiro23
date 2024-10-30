@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm BADR-EDDINE ZIRAR</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-<p align="center">I'm currently learning frameworks and have a deep interest in technologies like React, TensorFlow, and more. My journey in technology combines a focus on web development with a fascination for robotics, machine learning, and how these areas can be interconnected. I'm especially passionate about developing projects that use deep learning to automate robotics. When I'm not working on tech, you can find me sketching, listening to music, or watching Netflix.</p>
+<p align="center">I'm currently learning frameworks and have a deep interest in technologies like React, Angular, and more. My journey in technology combines a focus on web development with a fascination for deep and machine learning, and how these areas can be interconnected. I'm especially passionate about developing projects that use deep learning. When I'm not working on tech, you can find me drawing or at my kickboxing club, listening to music, or watching Netflix.</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bader-zirar"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
@@ -26,8 +26,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> 
 <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=black" />
 <img src="https://img.shields.io/badge/Symfony%20-%23000000.svg?&style=for-the-badge&logo=Symfony&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS%20-%2338B2AC.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white" />
@@ -42,6 +40,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 <p align="center">
