@@ -30,6 +30,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=black" />
+ <img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="40" height="40" />
 <img src="https://img.shields.io/badge/Symfony%20-%23000000.svg?&style=for-the-badge&logo=Symfony&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS%20-%2338B2AC.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
