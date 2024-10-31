@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm BADR-EDDINE ZIRAR</h1>
-
+<h3 align="center">Aspiring Frontend Developer, currently a student and intern in Morocco</h3>
 
 <p align="center">I'm currently learning frameworks and have a deep interest in technologies like React, Angular, and more. My journey in technology combines a focus on web development with a fascination for deep and machine learning, and how these areas can be interconnected. I'm especially passionate about developing projects that use deep learning. When I'm not working on tech, you can find me drawing or at my kickboxing club, listening to music, or watching Netflix.</p>
 
