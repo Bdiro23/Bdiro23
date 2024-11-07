@@ -49,6 +49,8 @@
  <img src="https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?&style=for-the-badge&logo=apache-tomcat&logoColor=black" />
  <img src="https://img.shields.io/badge/MariaDB-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" />
  <img src="https://img.shields.io/badge/API%20Platform-%230000FF.svg?&style=for-the-badge&logo=api-platform&logoColor=white" />
+ <img src="https://img.shields.io/badge/TypeScript%20-%232F74C0.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" />
+
 </p>
 
 <p align="center">
