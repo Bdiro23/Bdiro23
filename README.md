@@ -29,7 +29,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<table border="1" cellpadding="10" cellspacing="0">
+<table border="1">
   <tr>
     <th colspan="4">Technologies Frontend</th>
     <th colspan="4">Technologies Backend</th>
