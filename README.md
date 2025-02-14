@@ -50,6 +50,15 @@
  <img src="https://img.shields.io/badge/MariaDB-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" />
  <img src="https://img.shields.io/badge/API%20Platform-%230000FF.svg?&style=for-the-badge&logo=api-platform&logoColor=white" />
  <img src="https://img.shields.io/badge/TypeScript%20-%232F74C0.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" />
+ <img src="https://img.shields.io/badge/.NET%20-%23007C5D.svg?&style=for-the-badge&logo=.net&logoColor=white" alt=".NET Badge">
+ <img src="https://img.shields.io/badge/gitlab-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge">
+ <img src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge">
+ <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+ <img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
+ <img src="https://img.shields.io/badge/seaborn-%23004B87.svg?&style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Badge">
+ <img src="https://img.shields.io/badge/Sklearn-%23004B87.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn Badge">
+ <img src="https://img.shields.io/badge/matplotlib-%2300A8E8.svg?&style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge">
+ <img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge">
 </p>
 
 
