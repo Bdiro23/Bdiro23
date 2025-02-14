@@ -37,49 +37,51 @@
     <th colspan="4">SGBD</th>
     <th colspan="4">Gestion de Version</th>
     <th colspan="4">Bibliothèques Python</th>
-    <th clospan="4">Server</th>
+    <th colspan="4">Server</th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=black" /></td>
     <td><img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="40" height="40" /></td>
     <td><img src="https://img.shields.io/badge/TailwindCSS%20-%2338B2AC.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/TypeScript%20-%232F74C0.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/javafx%20-%230078D4.svg?&style=for-the-badge&logo=javafx&logoColor=white" /></td>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Symfony%20-%23000000.svg?&style=for-the-badge&logo=Symfony&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/API%20Platform-%230000FF.svg?&style=for-the-badge&logo=api-platform&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/.NET%20-%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" /></td>
   </tr>
   <tr>
+    <td><img src="https://img.shields.io/badge/TypeScript%20-%232F74C0.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/javafx%20-%230078D4.svg?&style=for-the-badge&logo=javafx&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Symfony%20-%23000000.svg?&style=for-the-badge&logo=Symfony&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/API%20Platform-%230000FF.svg?&style=for-the-badge&logo=api-platform&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/.NET%20-%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></td>
     <td><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /></td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/matlab-%23E3B200.svg?&style=for-the-badge&logo=matlab&logoColor=white" /></td>
-  </tr>
-  <tr>
-   <td><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></td>
     <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></td>
-    <td><img src="https://img.shields.io/badge/MariaDB-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" /></td>
   </tr>
   <tr>
+    <td><img src="https://img.shields.io/badge/MariaDB-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/gitlab-%231D2C60.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/tortoise%20svn-%23457E88.svg?&style=for-the-badge&logo=tortoise-svn&logoColor=white" /></td>
   </tr>
   <tr>
+    <td><img src="https://img.shields.io/badge/tortoise%20svn-%23457E88.svg?&style=for-the-badge&logo=tortoise-svn&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/seaborn-%23004B87.svg?&style=for-the-badge&logo=seaborn&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Sklearn-%23004B87.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/matplotlib-%2300A8E8.svg?&style=for-the-badge&logo=matplotlib&logoColor=white" /></td>
   </tr> 
   <tr>
+    <td><img src="https://img.shields.io/badge/matplotlib-%2300A8E8.svg?&style=for-the-badge&logo=matplotlib&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Apache-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?&style=for-the-badge&logo=apache-tomcat&logoColor=black" /></td>
   </tr>
 </table>
+
 
 
 
