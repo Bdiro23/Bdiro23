@@ -51,8 +51,8 @@
       <td><img src="https://img.shields.io/badge/Apache-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white" alt="Apache Badge"></td>
     </tr>
     <tr>
-      <td><img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="100"></td>
-      <td><img src="https://img.shields.io/badge/API%20Platform-%230000FF.svg?&style=for-the-badge&logo=api-platform&logoColor=white" alt="API Platform Badge"></td>
+      <td><img src="https://img.shields.io/badge/javafx%20-%230078D4.svg?&style=for-the-badge&logo=javafx&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/.NET%20-%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" /></td>
       <td><img src="https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"></td>
       <td><img src="https://img.shields.io/badge/MariaDB-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB Badge"></td>
       <td><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></td>
