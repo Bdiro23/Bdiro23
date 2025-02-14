@@ -28,7 +28,6 @@
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
 <table border="1">
   <tr>
     <th colspan="4">Technologies Frontend</th>
@@ -81,11 +80,6 @@
     <td><img src="https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?&style=for-the-badge&logo=apache-tomcat&logoColor=black" /></td>
   </tr>
 </table>
-
-
-
-
-</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bdiro23&show_icons=true&locale=en&theme=radical">
