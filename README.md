@@ -28,6 +28,7 @@
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=black" />
  <img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="40" height="40" />
 <img src="https://img.shields.io/badge/Symfony%20-%23000000.svg?&style=for-the-badge&logo=Symfony&logoColor=white" />
@@ -49,7 +50,7 @@
  <img src="https://img.shields.io/badge/MariaDB-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" />
  <img src="https://img.shields.io/badge/API%20Platform-%230000FF.svg?&style=for-the-badge&logo=api-platform&logoColor=white" />
  <img src="https://img.shields.io/badge/TypeScript%20-%232F74C0.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" />
-
+</p>
 
 
 <p align="center">
